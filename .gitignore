@@ -1,5 +1,9 @@
+# 忽略所有可执行文件（无后缀或常见后缀）
 *.exe
 *.o
 *.obj
 *.out
 .DS_Store
+*.dSYM
+temp
+a.out
