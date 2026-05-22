@@ -22,5 +22,5 @@
 ## 如何编译运行
 ```bash
 cd 02_SinglyLinkedList
-gcc SList.c main.c -o test
+clang SList.c main.c -o test
 ./test
