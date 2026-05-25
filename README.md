@@ -3,6 +3,8 @@
 ## 项目简介
 本项目是我学习数据结构的代码记录，使用C语言实现，目标是为嵌入式开发打基础。
 
+> 详细学习笔记及代码解析见博客：[双向链表（带头循环）学习笔记](https://blog.csdn.net/2601_95570258/article/details/161393272?fromshare=blogdetail&sharetype=blogdetail&sharerId=161393272&sharerefer=PC&sharesource=2601_95570258&sharefrom=from_link)
+
 ## 已完成的数据结构
 - [已完成] 顺序表（动态数组）
 - [已完成] 单链表（无头单向非循环）
@@ -30,3 +32,4 @@ make
 cd 03_DoublyLinkedList
 clang -g -O0 -Wall -o test *.c
 ./test
+
