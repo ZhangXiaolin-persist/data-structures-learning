@@ -1,0 +1,25 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "build",
+            "type": "shell",
+            "command": "cd '${fileDirname}' && clang -g -O0 -Wall -o '${fileBasenameNoExtension}' *.c",
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "problemMatcher": ["$gcc"]
+        },
+        {
+            "label": "build & run",
+            "type": "shell",
+            "command": "cd '${fileDirname}' && clang -g -O0 -Wall -o '${fileBasenameNoExtension}' *.c && echo '--- 运行结果 ---' && ./'${fileBasenameNoExtension}'",
+            "group": {
+                "kind": "test",
+                "isDefault": true
+            },
+            "problemMatcher": []
+        }
+    ]
+}
