@@ -8,7 +8,7 @@
 > - [单链表（无头单向非循环）学习笔记](https://blog.csdn.net/2601_95570258/article/details/161494847?fromshare=blogdetail&sharetype=blogdetail&sharerId=161494847&sharerefer=PC&sharesource=2601_95570258&sharefrom=from_link)
 > - [双向链表（带头循环）学习笔记](https://blog.csdn.net/2601_95570258/article/details/161393272?fromshare=blogdetail&sharetype=blogdetail&sharerId=161393272&sharerefer=PC&sharesource=2601_95570258&sharefrom=from_link)
 > - [栈（Stack）学习笔记](https://blog.csdn.net/2601_95570258/article/details/161399200?fromshare=blogdetail&sharetype=blogdetail&sharerId=161399200&sharerefer=PC&sharesource=2601_95570258&sharefrom=from_link)
-> - [队列（Queue）学习笔记](https://blog.csdn.net/2601_95570258/article/details/) <!-- TODO: 替换为实际博客链接 -->
+> - [队列（Queue）学习笔记](https://blog.csdn.net/2601_95570258/article/details/161445428?fromshare=blogdetail&sharetype=blogdetail&sharerId=161445428&sharerefer=PC&sharesource=2601_95570258&sharefrom=from_link)
 
 ## 已完成的数据结构
 - [已完成] 顺序表（动态数组）
