@@ -4,6 +4,8 @@
 本项目是我学习数据结构的代码记录，使用C语言实现，目标是为嵌入式开发打基础。
 
 > 详细学习笔记及代码解析见博客：
+> - [顺序表（动态数组）学习笔记](https://blog.csdn.net/2601_95570258/article/details/161414761?fromshare=blogdetail&sharetype=blogdetail&sharerId=161414761&sharerefer=PC&sharesource=2601_95570258&sharefrom=from_link)
+> - [单链表（无头单向非循环）学习笔记](https://blog.csdn.net/2601_95570258/article/details/161494847?fromshare=blogdetail&sharetype=blogdetail&sharerId=161494847&sharerefer=PC&sharesource=2601_95570258&sharefrom=from_link)
 > - [双向链表（带头循环）学习笔记](https://blog.csdn.net/2601_95570258/article/details/161393272?fromshare=blogdetail&sharetype=blogdetail&sharerId=161393272&sharerefer=PC&sharesource=2601_95570258&sharefrom=from_link)
 > - [栈（Stack）学习笔记](https://blog.csdn.net/2601_95570258/article/details/161399200?fromshare=blogdetail&sharetype=blogdetail&sharerId=161399200&sharerefer=PC&sharesource=2601_95570258&sharefrom=from_link)
 > - [队列（Queue）学习笔记](https://blog.csdn.net/2601_95570258/article/details/) <!-- TODO: 替换为实际博客链接 -->
